@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: #000;
+}
+.navbar .logo {
+  width: 90px;
+}
+.navbar .profile {
+  width: 40px;
+}
+
+#logo {
+  font-family: "Poppins", sans-serif;
+
+  font-weight: bold;
+
+  color: rgb(224, 209, 0);
+}
